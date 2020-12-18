@@ -1,4 +1,4 @@
 first change.
 second change.
 third commit.
-git config
+changes not desired.
