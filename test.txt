@@ -7,3 +7,6 @@ feature 1
 new commit on master
 commit 1 on master
 commit 2 on master
+commit 1 feature 2
+commit 2 feature 2
+commit 3 feature 2
