@@ -5,3 +5,4 @@ my change // this another change
 add tag v1.0.1.0
 feature 1
 new commit on master
+commit 1 feature 2
